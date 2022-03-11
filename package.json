@@ -1,0 +1,16 @@
+{
+  "name": "weather-cli",
+  "version": "0.1.0",
+  "description": "Console weather app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "weather",
+    "cli"
+  ],
+  "author": "xyamix",
+  "license": "ISC"
+}
